@@ -31,3 +31,17 @@
 .content p {
     font-size: 1.12rem;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    bottom: .75em;
+    text-align: center;
+}
+
+.footer h3 {
+    margin:.5rem;
+    font-size: .9rem;
+}
